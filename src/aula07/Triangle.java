@@ -1,6 +1,6 @@
-package aula05;
+package aula07;
 
-import aula07.Forma;
+
 
 public class Triangle extends Forma{
     private double l1;

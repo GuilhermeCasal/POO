@@ -1,6 +1,4 @@
-package aula05;
-
-import aula07.Forma;
+package aula07;
 
 public class Rectangle extends Forma{
     private double length;
