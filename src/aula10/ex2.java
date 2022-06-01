@@ -8,15 +8,15 @@ public class ex2 {
         TreeSet<String> tree= new TreeSet<>();
 
         tree.add("araras voadoras");
-        tree.add("chupa misto");
+        tree.add("estamos aí");
         tree.add("panados com pao");
         mapa.put("primeira", tree);       
         
         TreeSet<String> fourth = new TreeSet<>();
         fourth.add("aiue");
         fourth.add("uelele");
-        fourth.add("estou aqui gosto dela é donzela");
-        fourth.add("vou fazer ah ah com ela");
+        fourth.add("mequiee ");
+        fourth.add("voa");
         mapa.put("segunda", fourth);
         System.out.print(mapa); 
     }

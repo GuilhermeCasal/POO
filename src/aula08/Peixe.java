@@ -1,6 +1,6 @@
 package aula08;
 
-enum Tipo {
+/* enum Tipo {
     CONGELADO, 
     FRESCO
 }
@@ -25,4 +25,4 @@ public class Peixe extends Alimento {
     public String toString() {
         return "Peixe " + tipo + super.toString();
     }
-}
+} */
