@@ -18,6 +18,7 @@ public class teste {
             System.out.println("Certo");    
         }
 
+
         Scanner input = new Scanner(new File("words.txt"));
         while (input.hasNextLine()){
             System.out.println(input.nextLine());
